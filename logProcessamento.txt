@@ -1,0 +1,16 @@
+Função: Cabeçalho
+Função: add
+Função: reiniciaString
+Função: reiniciaString
+Função: reiniciaString
+Função: reiniciaString
+Função: Procurar
+Função: Dijkstra
+Função: Dijkstra
+Função: Dijkstra
+Função: Dijkstra
+Função: Dijkstra
+Função: Dijkstra
+Função: Dijkstra
+Função: Dijkstra
+Função: Dijkstra
